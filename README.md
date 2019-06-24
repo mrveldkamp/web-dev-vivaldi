@@ -16,6 +16,7 @@ Use a centered-fixed-width layout: page-content-width: 700px (150px padding on e
   <li>Sub headings are 'Ledger' (from Google Fonts)</li>
   <li>Buttons are 18px and 0.6px letter spacing</li>
   <li>Paragraphs and lists have 0.5px letter spacing</li>
+  <li>Click image text is 12px and italic</li>
 </ul>
 
 <h3>Colors</h3>
